@@ -4,7 +4,7 @@
 
 `wl-clipboard-watch` provides reusable primitives for observing Wayland clipboard selection changes.
 
-`ext-data-control-v1` will be used and `wlr-data-control-v1` will be used as a fallback.
+By default, `ext-data-control-v1` is preferred and `wlr-data-control-v1` will be used as a fallback.
 
 ## Documentation
 
